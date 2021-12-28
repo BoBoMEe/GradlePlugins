@@ -2,8 +2,11 @@
 
 #### 介绍
 com.android.tools.build:gradle:7.0.2
+
 org.jetbrains.kotlin:kotlin-gradle-plugin:1.6.0
+
 distributionUrl=https\://services.gradle.org/distributions/gradle-7.0.2-all.zip
+
 参考对应关系：[https://developer.android.google.cn/studio/releases/gradle-plugin.html#updating-gradle](https://developer.android.google.cn/studio/releases/gradle-plugin.html#updating-gradle)
 
 #### 软件架构
